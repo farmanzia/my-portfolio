@@ -1,5 +1,0 @@
-import 'package:get/get.dart';
-
-class AppController extends GetxController {
-  RxString aboutMe = "Greetings! I'm Muhammad Farman, a Flutter Developer who is passionate about crafting visually stunning and user-friendly mobile applications. With couple of experience in Flutter, I am well-versed in building custom widgets, responsive UI designs, API integrations, and state management solutions like Provider ,GetX and Bloc.I possess a thorough understanding of the Dart programming language and its best practices, and I am continuously enhancing my skills and exploring the newest technologies to stay current with the latest trends in mobile app development.Over the course of my career, I have collaborated with a variety of clients and teams to deliver highly scalable and top-notch mobile apps. I have a sharp eye for design and an unwavering commitment to producing clean, readable, and maintainable code.In my spare time, I love tinkering with fresh app concepts and contributing to the open-source community. If you're interested in collaborating with me or have any questions, please don't hesitate to contact me!".obs;
-}
